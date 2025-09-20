@@ -7,6 +7,11 @@ Thiết kế tập trung vào **tính sẵn sàng cao**, **bảo mật**, và **
 
 ---
 
+<div align="center">
+  <img src="https://i.postimg.cc/zXVgDwhX/Picture1.png" alt="Network Topology" width="800">
+</div>
+
+
 ## ✅ Tính năng chính
 - **Hệ thống mạng nhiều chi nhánh**: HQ tại Thủ Đức & Chi nhánh tại Quận 3.
 - **Phân chia VLAN theo phòng ban** để tăng cường bảo mật và quản lý lưu lượng.
